@@ -2,3 +2,4 @@
 
 " treat print as a built-in function always, whatever...
 syntax keyword pythonBuiltinFunc print
+syntax keyword pythonNumber self
